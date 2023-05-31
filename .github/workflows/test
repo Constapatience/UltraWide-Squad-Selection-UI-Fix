@@ -1,17 +1,30 @@
 [{
 "Tracker0":{
-  "Name":"Tracker0",
   "Type":"string",
   "Value":"Constapatience"
   },
 "Tracker1":{
-  "Name":"Tracker1",
   "Type":"string",
   "Value":"Constapatience"
   },
 "Venue":{
-  "Name":"Venue",
   "Type":"string",
   "Value":"1"
+  },
+"Puppets0":{
+  "Type":"string",
+  "Value":"0"
+  },
+"Puppets1":{
+  "Type":"string",
+  "Value":"1"
+  },
+"Puppets2":{
+  "Type":"string",
+  "Value":"2"
+  },
+"Item":{
+  "Type":"string",
+  "Value":"-1"
   }
 }]
