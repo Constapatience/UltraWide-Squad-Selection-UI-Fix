@@ -13,11 +13,11 @@
   },
 "Puppets0":{
   "Type":"string",
-  "Value":"0"
+  "Value":"1"
   },
 "Puppets1":{
   "Type":"string",
-  "Value":"1"
+  "Value":"0"
   },
 "Puppets2":{
   "Type":"string",
